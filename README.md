@@ -1,3 +1,5 @@
+![Topology Diagram]()
+
 # CCNA Networking Labs
 
 This repository contains a collection of networking labs created while studying for the Cisco CCNA certification.
