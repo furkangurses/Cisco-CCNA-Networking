@@ -1,4 +1,4 @@
-![Topology Diagram]()
+![Topology Diagram](https://github.com/furkangurses/Cisco-CCNA-Networking/blob/main/readme%20resim.jpg?raw=true)
 
 # CCNA Networking Labs
 
